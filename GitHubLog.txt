@@ -1,0 +1,336 @@
+2016-06-02 16:23:54.8455|INFO|thread: 1|SoftwareUpdateViewModel|Checking for new version
+2016-06-02 16:20:10.9189|INFO|thread: 1|CommandLineHandler|Parsing command line arguments:
+2016-06-02 16:20:10.9484|INFO|thread: 1|CommandLineHandler|Unprocessed args: 
+2016-06-02 16:20:10.9724|INFO|thread: 1|AppInstance|Starting up as master instance of GitHub Desktop
+2016-06-02 16:20:11.0819|INFO|thread: 1|HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2016-06-02 16:20:11.0819|INFO|thread: 1|HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| #########################################
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| GitHub Desktop started. VERSION: 3.1.1.4
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| Build version: 0936e53829c91d7e0a20b2f16ba96a8875f6ec9c
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| ***************************************
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| ***                                 ***
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| ***                                 ***
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| ***        Have a problem?          ***
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| ***    Email support@github.com     ***
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| ***      and include this file      ***
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| ***                                 ***
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| ***                                 ***
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| ***************************************
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| OS Version: Windows 10 10.0.10586.0 x86
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| CLR Version: 4.0.30319.42000
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| Current culture: en-US
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| Environment.CurrentDirectory: C:\Users\cmgas\AppData\Local\Apps\2.0\685ZKLJR.5X0\G27HAP8T.ARL\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| currentProcess.StartInfo.WorkingDirectory: 
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| Terminal Services session: no
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| Location: C:\Users\cmgas\AppData\Local\Apps\2.0\685ZKLJR.5X0\G27HAP8T.ARL\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4\GitHub.exe
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2016-06-02 16:20:11.5923|INFO|thread: 5|StartupLogging| System.Environment.CommandLine: C:\Users\cmgas\AppData\Local\Apps\2.0\685ZKLJR.5X0\G27HAP8T.ARL\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4\GitHub.exe
+2016-06-02 16:20:11.7574|INFO|thread: 5|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-06-02 16:20:11.7574|INFO|thread: 5|GitEnvironment|PATH is C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\cmgas\AppData\Local\Apps\2.0\685ZKLJR.5X0\G27HAP8T.ARL\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\cmgas\AppData\Local\GitHub\lfs-x86_1.2.0;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-02 16:20:12.1074|INFO|thread: 5|StartupLogging| =====================================================
+2016-06-02 16:20:12.1074|INFO|thread: 5|StartupLogging|  DIAGNOSTICS                                        |
+2016-06-02 16:20:12.1074|INFO|thread: 5|StartupLogging| =====================================================
+2016-06-02 16:20:12.1259|INFO|thread: 5|StartupLogging| Git Extracted: 'True:
+2016-06-02 16:20:12.1259|INFO|thread: 5|StartupLogging| PortableGit Dir Exists: 'C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0'
+2016-06-02 16:20:12.1259|INFO|thread: 5|StartupLogging| Git Executable Exists: 'C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe'
+2016-06-02 16:20:12.1259|INFO|thread: 5|StartupLogging| ----------------------------------------------------
+2016-06-02 16:20:12.1259|INFO|thread: 5|StartupLogging| PATH: C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;
+2016-06-02 16:20:12.1499|INFO|thread: 1|App|Checking whether application is network deployed: True
+2016-06-02 16:20:12.1499|INFO|thread: 1|App|Shortcut C:\Users\cmgas\AppData\Local\GitHub\GitHub.appref-ms exists? True
+2016-06-02 16:20:12.2409|INFO|thread: 1|ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\cmgas\AppData\Local\Apps\2.0\685ZKLJR.5X0\G27HAP8T.ARL\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4\Images\App.ico'
+2016-06-02 16:20:12.7875|INFO|thread: 5|StartupLogger|Proxy information: (None)
+2016-06-02 16:20:12.7875|INFO|thread: 5|StartupLogger|Couldn't fetch creds for proxy
+2016-06-02 16:20:13.5628|INFO|thread: 5|PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2016-06-02 16:20:14.4549|INFO|thread: 5|MsysGitCertificateInstaller|Found certificate cache, loaded 156 certificates
+2016-06-02 16:20:14.4549|INFO|thread: 5|MsysGitCertificateInstaller|Created certificate bundle with 180 entries
+2016-06-02 16:20:15.0534|INFO|thread: 5|StartupSequence|Took 1503ms to Update certificate bundle from system store
+2016-06-02 16:20:16.0459|INFO|thread: 1|CommandLineToolsExtractor|Portable Git and Git LFS are already extracted
+2016-06-02 16:20:16.0459|INFO|thread: 1|GitClient|Installing git lfs filters
+2016-06-02 16:20:16.0459|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-06-02 16:20:16.0459|INFO|thread: 1|GitEnvironment|PATH is C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\cmgas\AppData\Local\Apps\2.0\685ZKLJR.5X0\G27HAP8T.ARL\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\cmgas\AppData\Local\GitHub\lfs-x86_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-02 16:20:16.0694|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe', Args: 'lfs install --force ', Working Directory: C:\Users\cmgas\AppData\Local\Temp\
+2016-06-02 16:20:16.8309|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2016-06-02 16:20:16.8309|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2016-06-02 16:20:22.3464|INFO|thread:12|SoftwareUpdateViewModel|Checking for new version
+2016-06-02 16:20:40.4436|INFO|thread: 1|PortablePackageManager|Already extracted gitignore.7z, returning 100%
+2016-06-02 16:20:41.2528|WARN|thread:16|LoginCache|Could not get login for host 'GitHub.HostAddress'
+System.Collections.Generic.KeyNotFoundException: The given key 'login:github.com' was not present in the cache.
+2016-06-02 16:20:41.2528|WARN|thread:12|LoginCache|Could not get login for host 'GitHub.HostAddress'
+System.Collections.Generic.KeyNotFoundException: The given key 'login:null' was not present in the cache.
+2016-06-02 16:20:42.0989|INFO|thread:13|DashboardViewModel|Selected repository '/Tutorial'
+2016-06-02 16:20:42.1254|INFO|thread:13|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 1 at GitClient.cs:628
+2016-06-02 16:20:42.1254|INFO|thread:12|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 1 at GitClient.cs:628 after waiting 0.001776s
+2016-06-02 16:20:42.1254|INFO|thread:13|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 2 at GitClient.cs:606
+2016-06-02 16:20:42.1784|INFO|thread:16|AsyncReaderWriterLock|Released concurrent scheduler for operation: 1 at GitClient.cs:628 after blocking 0.0508629s
+2016-06-02 16:20:42.1784|INFO|thread:12|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 2 at GitClient.cs:606 after waiting 0.0499641s
+2016-06-02 16:20:42.7401|INFO|thread:12|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 3 at GitClient.cs:623
+2016-06-02 16:20:42.8459|INFO|thread:12|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 4 at GitClient.cs:224
+2016-06-02 16:20:42.8459|INFO|thread:12|DashboardViewModel|Took 732ms to Create RepositoryViewModel for location C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2016-06-02 16:20:42.8459|INFO|thread:12|AsyncReaderWriterLock|Released exclusive scheduler for operation: 2 at GitClient.cs:606 after blocking 0.6676939s
+2016-06-02 16:20:42.8459|INFO|thread:12|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 3 at GitClient.cs:623 after waiting 0.1088479s
+2016-06-02 16:20:42.8459|INFO|thread:16|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 4 at GitClient.cs:224 after waiting 0.0028982s
+2016-06-02 16:20:42.8459|INFO|thread:16|GitClient|Loading commits for repo: C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2016-06-02 16:20:42.9060|INFO|thread:16|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\.
+2016-06-02 16:20:42.9215|INFO|thread:16|AsyncReaderWriterLock|Released concurrent scheduler for operation: 4 at GitClient.cs:224 after blocking 0.0725815s
+2016-06-02 16:20:43.0761|INFO|thread:12|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 5 at RepositoryViewModel.cs:318
+2016-06-02 16:20:43.0761|INFO|thread:16|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 5 at RepositoryViewModel.cs:318 after waiting 0.0010817s
+2016-06-02 16:20:43.0761|INFO|thread:12|AsyncReaderWriterLock|Released concurrent scheduler for operation: 3 at GitClient.cs:623 after blocking 0.2289252s
+2016-06-02 16:20:43.1426|INFO|thread:12|AsyncReaderWriterLock|Released concurrent scheduler for operation: 5 at RepositoryViewModel.cs:318 after blocking 0.065376s
+2016-06-02 16:20:46.6359|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 6 at GitClient.cs:201
+2016-06-02 16:20:46.6359|INFO|thread:16|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 6 at GitClient.cs:201 after waiting 0.000189s
+2016-06-02 16:20:46.6359|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 7 at RepositoryModel.cs:596
+2016-06-02 16:20:46.8214|INFO|thread:12|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 8 at RepositoryModel.cs:596
+2016-06-02 16:20:46.8359|INFO|thread:12|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 7 at RepositoryModel.cs:596 after waiting 0.1983316s
+2016-06-02 16:20:47.8468|INFO|thread:24|AsyncReaderWriterLock|Released concurrent scheduler for operation: 6 at GitClient.cs:201 after blocking 1.2105768s
+2016-06-02 16:20:47.8468|INFO|thread:16|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 8 at RepositoryModel.cs:596 after waiting 1.0256682s
+2016-06-02 16:20:47.8648|INFO|thread:16|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 9 at NewPullRequestViewModel.cs:246
+2016-06-02 16:20:47.8648|INFO|thread:16|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 10 at GitClient.cs:290
+2016-06-02 16:20:47.8648|INFO|thread:16|AsyncReaderWriterLock|Released concurrent scheduler for operation: 8 at RepositoryModel.cs:596 after blocking 0.0222376s
+2016-06-02 16:20:47.8648|INFO|thread:16|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 9 at NewPullRequestViewModel.cs:246 after waiting 0.0047768s
+2016-06-02 16:20:48.0313|INFO|thread:24|AsyncReaderWriterLock|Released concurrent scheduler for operation: 7 at RepositoryModel.cs:596 after blocking 1.1955046s
+2016-06-02 16:20:48.0313|INFO|thread:12|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 10 at GitClient.cs:290 after waiting 0.1627793s
+2016-06-02 16:20:48.0558|INFO|thread:24|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\.
+2016-06-02 16:20:48.0558|INFO|thread:24|AsyncReaderWriterLock|Released concurrent scheduler for operation: 9 at NewPullRequestViewModel.cs:246 after blocking 0.1873304s
+2016-06-02 16:20:48.0648|INFO|thread:16|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-06-02 16:20:48.0648|INFO|thread:16|GitEnvironment|PATH is C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\cmgas\AppData\Local\Apps\2.0\685ZKLJR.5X0\G27HAP8T.ARL\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\cmgas\AppData\Local\GitHub\lfs-x86_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-02 16:20:48.0648|INFO|thread:16|ProcessWrapper|Starting: Process - FileName: 'C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\
+2016-06-02 16:20:50.9339|INFO|thread:16|ConcurrentRepositoryConnection|Took 1949ms to git status
+2016-06-02 16:20:50.9339|INFO|thread:16|ConcurrentRepositoryConnection|Took 1950ms to git status and parse output
+2016-06-02 16:20:50.9824|INFO|thread:16|NewCommitViewModel|Took 3113ms to load files for C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2016-06-02 16:20:50.9824|INFO|thread:16|AsyncReaderWriterLock|Released concurrent scheduler for operation: 10 at GitClient.cs:290 after blocking 2.950866s
+2016-06-02 16:20:51.8178|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 11 at GitClient.cs:611
+2016-06-02 16:20:51.8178|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 11 at GitClient.cs:611 after waiting 4.26E-05s
+2016-06-02 16:20:51.8178|INFO|thread:12|AsyncReaderWriterLock|Released concurrent scheduler for operation: 11 at GitClient.cs:611 after blocking 0.0065362s
+2016-06-02 16:20:52.8028|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 12 at BranchesViewModel.cs:356
+2016-06-02 16:20:52.8028|INFO|thread:16|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 12 at BranchesViewModel.cs:356 after waiting 0.0002284s
+2016-06-02 16:20:52.8028|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 13 at RepositoryViewModel.cs:318
+2016-06-02 16:20:52.8028|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 13 at RepositoryViewModel.cs:318 after waiting 5.16E-05s
+2016-06-02 16:20:52.8193|INFO|thread:12|AsyncReaderWriterLock|Released concurrent scheduler for operation: 12 at BranchesViewModel.cs:356 after blocking 0.0161875s
+2016-06-02 16:20:52.9293|INFO|thread: 1|NewCommitViewModel|Took 1947ms to render file list for C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2016-06-02 16:20:52.9413|INFO|thread: 1|AsyncReaderWriterLock|Released concurrent scheduler for operation: 13 at RepositoryViewModel.cs:318 after blocking 0.1350662s
+2016-06-02 16:20:52.9413|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 14 at RepositoryViewModel.cs:318
+2016-06-02 16:20:52.9413|INFO|thread:24|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 14 at RepositoryViewModel.cs:318 after waiting 3.72E-05s
+2016-06-02 16:20:52.9413|INFO|thread: 1|AsyncReaderWriterLock|Released concurrent scheduler for operation: 14 at RepositoryViewModel.cs:318 after blocking 2.13E-05s
+2016-06-02 16:20:52.9413|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 15 at RepositoryViewModel.cs:318
+2016-06-02 16:20:52.9413|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 15 at RepositoryViewModel.cs:318 after waiting 1.44E-05s
+2016-06-02 16:20:52.9563|INFO|thread:12|AsyncReaderWriterLock|Released concurrent scheduler for operation: 15 at RepositoryViewModel.cs:318 after blocking 0.0147313s
+2016-06-02 16:20:56.6684|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 16 at GitClient.cs:201
+2016-06-02 16:20:56.6684|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 16 at GitClient.cs:201 after waiting 6.54E-05s
+2016-06-02 16:20:56.6684|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 17 at RepositoryModel.cs:596
+2016-06-02 16:20:56.6684|INFO|thread:16|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 17 at RepositoryModel.cs:596 after waiting 7.44E-05s
+2016-06-02 16:20:56.6824|INFO|thread:16|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 18 at GitClient.cs:290
+2016-06-02 16:20:56.6824|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 18 at GitClient.cs:290 after waiting 4.51E-05s
+2016-06-02 16:20:56.6824|INFO|thread:16|AsyncReaderWriterLock|Released concurrent scheduler for operation: 17 at RepositoryModel.cs:596 after blocking 0.0139839s
+2016-06-02 16:20:56.6824|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 16 at GitClient.cs:201 after blocking 0.0151968s
+2016-06-02 16:20:56.6884|INFO|thread:24|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-06-02 16:20:56.6884|INFO|thread:24|GitEnvironment|PATH is C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\cmgas\AppData\Local\Apps\2.0\685ZKLJR.5X0\G27HAP8T.ARL\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\cmgas\AppData\Local\GitHub\lfs-x86_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-02 16:20:56.6884|INFO|thread:24|ProcessWrapper|Starting: Process - FileName: 'C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\
+2016-06-02 16:21:01.0363|INFO|thread: 4|ConcurrentRepositoryConnection|Took 2864ms to git status
+2016-06-02 16:21:01.0363|INFO|thread: 4|ConcurrentRepositoryConnection|Took 2864ms to git status and parse output
+2016-06-02 16:21:01.0363|INFO|thread: 4|NewCommitViewModel|Took 4354ms to load files for C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2016-06-02 16:21:01.0363|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 18 at GitClient.cs:290 after blocking 4.3542538s
+2016-06-02 16:21:01.9137|INFO|thread: 1|NewCommitViewModel|Took 877ms to render file list for C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2016-06-02 16:21:01.9137|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 19 at RepositoryViewModel.cs:318
+2016-06-02 16:21:01.9137|INFO|thread:24|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 19 at RepositoryViewModel.cs:318 after waiting 5.2E-05s
+2016-06-02 16:21:01.9419|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 19 at RepositoryViewModel.cs:318 after blocking 0.0275609s
+2016-06-02 16:21:04.7795|INFO|thread:28|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 20 at BranchSelectionViewModel.cs:191
+2016-06-02 16:21:04.7795|INFO|thread:12|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 20 at BranchSelectionViewModel.cs:191 after waiting 0.0002016s
+2016-06-02 16:21:04.8010|INFO|thread:28|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-06-02 16:21:04.8010|INFO|thread:28|GitEnvironment|PATH is C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\cmgas\AppData\Local\Apps\2.0\685ZKLJR.5X0\G27HAP8T.ARL\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\cmgas\AppData\Local\GitHub\lfs-x86_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-02 16:21:04.8010|INFO|thread:28|ProcessWrapper|Starting: Process - FileName: 'C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe', Args: 'log -g --abbrev-commit --pretty=oneline HEAD -n 2500 ', Working Directory: C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\
+2016-06-02 16:21:05.7714|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 21 at GitClient.cs:404
+2016-06-02 16:21:05.7714|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 21 at GitClient.cs:404 after waiting 0.0001557s
+2016-06-02 16:21:05.8246|INFO|thread:16|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-06-02 16:21:05.8246|INFO|thread:16|GitEnvironment|PATH is C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\cmgas\AppData\Local\Apps\2.0\685ZKLJR.5X0\G27HAP8T.ARL\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\cmgas\AppData\Local\GitHub\lfs-x86_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-02 16:21:05.8246|INFO|thread:16|ProcessWrapper|Starting: Process - FileName: 'C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe', Args: 'diff-tree -r -z --no-renames --name-status 4b825dc642cb6eb9a060e54bf8d69288fbee4904 19ce9d8ff1fccf510df82d99a65f48c649b7becd ', Working Directory: C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\
+2016-06-02 16:21:06.8798|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 22 at ICommittedFileForklift.cs:95
+2016-06-02 16:21:06.8798|INFO|thread:28|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 22 at ICommittedFileForklift.cs:95 after waiting 0.0013007s
+2016-06-02 16:21:06.9693|INFO|thread:31|AsyncReaderWriterLock|Released concurrent scheduler for operation: 22 at ICommittedFileForklift.cs:95 after blocking 0.08788s
+2016-06-02 16:21:08.3785|INFO|thread:16|AsyncReaderWriterLock|Released concurrent scheduler for operation: 21 at GitClient.cs:404 after blocking 2.6065848s
+2016-06-02 16:21:08.4600|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 20 at BranchSelectionViewModel.cs:191 after blocking 3.6803128s
+2016-06-02 16:21:10.3668|INFO|thread: 1|SelectedCommitViewModel|Took 4603ms to load files for commit 01ad915 in repo C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2016-06-02 16:21:57.5710|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.RepositoryOptionsViewModel.
+2016-06-02 16:21:57.5775|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 23 at GitClient.cs:187
+2016-06-02 16:21:57.5775|INFO|thread:28|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 23 at GitClient.cs:187 after waiting 0.0001691s
+2016-06-02 16:21:57.5775|INFO|thread: 5|GitClient|Grabbing Repo Settings
+2016-06-02 16:21:57.6256|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 23 at GitClient.cs:187 after blocking 0.0477717s
+2016-06-02 16:21:57.8294|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 24 at GitClient.cs:649
+2016-06-02 16:21:57.8294|INFO|thread:32|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 24 at GitClient.cs:649 after waiting 0.0002143s
+2016-06-02 16:21:57.8459|INFO|thread:24|AsyncReaderWriterLock|Released concurrent scheduler for operation: 24 at GitClient.cs:649 after blocking 0.0163855s
+2016-06-02 16:22:18.7894|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 25 at GitClient.cs:201
+2016-06-02 16:22:18.7894|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 25 at GitClient.cs:201 after waiting 6.39E-05s
+2016-06-02 16:22:18.7894|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 26 at RepositoryModel.cs:596
+2016-06-02 16:22:18.7894|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 26 at RepositoryModel.cs:596 after waiting 7.01E-05s
+2016-06-02 16:22:18.8064|INFO|thread:31|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 27 at GitClient.cs:290
+2016-06-02 16:22:18.8064|INFO|thread:31|AsyncReaderWriterLock|Released concurrent scheduler for operation: 26 at RepositoryModel.cs:596 after blocking 0.0165951s
+2016-06-02 16:22:18.8064|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 27 at GitClient.cs:290 after waiting 0.0001948s
+2016-06-02 16:22:18.8064|INFO|thread:28|AsyncReaderWriterLock|Released concurrent scheduler for operation: 25 at GitClient.cs:201 after blocking 0.0182649s
+2016-06-02 16:22:18.8134|INFO|thread:31|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-06-02 16:22:18.8134|INFO|thread:31|GitEnvironment|PATH is C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\cmgas\AppData\Local\Apps\2.0\685ZKLJR.5X0\G27HAP8T.ARL\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\cmgas\AppData\Local\GitHub\lfs-x86_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-02 16:22:18.8134|INFO|thread:31|ProcessWrapper|Starting: Process - FileName: 'C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\
+2016-06-02 16:22:18.8134|INFO|thread: 1|AsyncReaderWriterLock|Released concurrent scheduler for operation: 27 at GitClient.cs:290 after blocking 0.0134982s
+2016-06-02 16:23:05.6604|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 28 at GitClient.cs:201
+2016-06-02 16:23:05.6604|INFO|thread:32|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 28 at GitClient.cs:201 after waiting 6.21E-05s
+2016-06-02 16:23:05.6604|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 29 at RepositoryModel.cs:596
+2016-06-02 16:23:05.6604|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 29 at RepositoryModel.cs:596 after waiting 2.78E-05s
+2016-06-02 16:23:05.6749|INFO|thread:24|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 30 at GitClient.cs:290
+2016-06-02 16:23:05.6749|INFO|thread:16|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 30 at GitClient.cs:290 after waiting 6.36E-05s
+2016-06-02 16:23:05.6749|INFO|thread:24|AsyncReaderWriterLock|Released concurrent scheduler for operation: 29 at RepositoryModel.cs:596 after blocking 0.0141209s
+2016-06-02 16:23:05.6749|INFO|thread:28|AsyncReaderWriterLock|Released concurrent scheduler for operation: 28 at GitClient.cs:201 after blocking 0.0200431s
+2016-06-02 16:23:05.6749|INFO|thread:16|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-06-02 16:23:05.6749|INFO|thread:16|GitEnvironment|PATH is C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\cmgas\AppData\Local\Apps\2.0\685ZKLJR.5X0\G27HAP8T.ARL\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\cmgas\AppData\Local\GitHub\lfs-x86_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-02 16:23:05.6749|INFO|thread:16|ProcessWrapper|Starting: Process - FileName: 'C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\
+2016-06-02 16:23:06.6093|INFO|thread: 9|ConcurrentRepositoryConnection|Took 574ms to git status
+2016-06-02 16:23:06.6093|INFO|thread: 9|ConcurrentRepositoryConnection|Took 574ms to git status and parse output
+2016-06-02 16:23:06.6093|INFO|thread: 9|NewCommitViewModel|Took 934ms to load files for C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2016-06-02 16:23:06.6093|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 30 at GitClient.cs:290 after blocking 0.9347031s
+2016-06-02 16:23:06.6093|INFO|thread: 1|NewCommitViewModel|Took 0ms to render file list for C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2016-06-02 16:23:06.6093|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 31 at RepositoryViewModel.cs:318
+2016-06-02 16:23:06.6093|INFO|thread:24|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 31 at RepositoryViewModel.cs:318 after waiting 3.65E-05s
+2016-06-02 16:23:06.6268|INFO|thread:32|AsyncReaderWriterLock|Released concurrent scheduler for operation: 31 at RepositoryViewModel.cs:318 after blocking 0.0158965s
+2016-06-02 16:23:07.2739|INFO|thread: 1|ReactiveScreen|Deactivating GitHub.ViewModels.RepositoryOptionsViewModel.
+2016-06-02 16:23:07.2739|INFO|thread: 1|ReactiveScreen|Closed GitHub.ViewModels.RepositoryOptionsViewModel.
+2016-06-02 16:23:16.4051|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 32 at GitClient.cs:201
+2016-06-02 16:23:16.4051|INFO|thread:24|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 32 at GitClient.cs:201 after waiting 5.81E-05s
+2016-06-02 16:23:16.4051|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 33 at RepositoryModel.cs:596
+2016-06-02 16:23:16.4051|INFO|thread:32|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 33 at RepositoryModel.cs:596 after waiting 2.89E-05s
+2016-06-02 16:23:16.4051|INFO|thread:28|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 34 at GitClient.cs:290
+2016-06-02 16:23:16.4051|INFO|thread:12|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 34 at GitClient.cs:290 after waiting 3.83E-05s
+2016-06-02 16:23:16.4051|INFO|thread:28|AsyncReaderWriterLock|Released concurrent scheduler for operation: 33 at RepositoryModel.cs:596 after blocking 0.0131544s
+2016-06-02 16:23:16.4206|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 32 at GitClient.cs:201 after blocking 0.0155029s
+2016-06-02 16:23:16.4206|INFO|thread: 5|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-06-02 16:23:16.4206|INFO|thread: 5|GitEnvironment|PATH is C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\cmgas\AppData\Local\Apps\2.0\685ZKLJR.5X0\G27HAP8T.ARL\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\cmgas\AppData\Local\GitHub\lfs-x86_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-02 16:23:16.4206|INFO|thread: 5|ProcessWrapper|Starting: Process - FileName: 'C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\
+2016-06-02 16:23:17.3044|INFO|thread:31|ConcurrentRepositoryConnection|Took 577ms to git status
+2016-06-02 16:23:17.3044|INFO|thread:31|ConcurrentRepositoryConnection|Took 577ms to git status and parse output
+2016-06-02 16:23:17.3044|INFO|thread:31|NewCommitViewModel|Took 886ms to load files for C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2016-06-02 16:23:17.3044|INFO|thread:31|AsyncReaderWriterLock|Released concurrent scheduler for operation: 34 at GitClient.cs:290 after blocking 0.8862143s
+2016-06-02 16:23:17.3044|INFO|thread: 1|NewCommitViewModel|Took 0ms to render file list for C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2016-06-02 16:23:17.3044|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 35 at RepositoryViewModel.cs:318
+2016-06-02 16:23:17.3044|INFO|thread:16|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 35 at RepositoryViewModel.cs:318 after waiting 3.72E-05s
+2016-06-02 16:23:17.3219|INFO|thread:24|AsyncReaderWriterLock|Released concurrent scheduler for operation: 35 at RepositoryViewModel.cs:318 after blocking 0.0160917s
+2016-06-02 16:23:32.1628|INFO|thread:24|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 36 at BranchSelectionViewModel.cs:191
+2016-06-02 16:23:32.1628|INFO|thread:32|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 36 at BranchSelectionViewModel.cs:191 after waiting 4.01E-05s
+2016-06-02 16:23:32.1743|INFO|thread:24|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-06-02 16:23:32.1743|INFO|thread:24|GitEnvironment|PATH is C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\bin;C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\usr\share\git-tfs;C:\Users\cmgas\AppData\Local\Apps\2.0\685ZKLJR.5X0\G27HAP8T.ARL\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4;C:\Users\cmgas\AppData\Local\GitHub\lfs-x86_1.2.0;C:\WINDOWS\System32;C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+2016-06-02 16:23:32.1743|INFO|thread:24|ProcessWrapper|Starting: Process - FileName: 'C:\Users\cmgas\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd\git.exe', Args: 'log -g --abbrev-commit --pretty=oneline HEAD -n 2500 ', Working Directory: C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\
+2016-06-02 16:23:33.0654|INFO|thread:31|AsyncReaderWriterLock|Released concurrent scheduler for operation: 36 at BranchSelectionViewModel.cs:191 after blocking 0.9028322s
+2016-06-02 16:23:33.0904|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 37 at GitClient.cs:638
+2016-06-02 16:23:33.0904|INFO|thread:28|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 37 at GitClient.cs:638 after waiting 0.0013448s
+2016-06-02 16:23:33.0904|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 38 at NewPullRequestViewModel.cs:224
+2016-06-02 16:23:33.0904|INFO|thread:16|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 38 at NewPullRequestViewModel.cs:224 after waiting 3.28E-05s
+2016-06-02 16:23:33.0989|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 39 at GitClient.cs:207
+2016-06-02 16:23:33.0989|INFO|thread:32|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 39 at GitClient.cs:207 after waiting 0.0001077s
+2016-06-02 16:23:33.0989|INFO|thread: 4|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\.
+2016-06-02 16:23:33.1074|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 38 at NewPullRequestViewModel.cs:224 after blocking 0.0149438s
+2016-06-02 16:23:33.1074|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 40 at GitClient.cs:151
+2016-06-02 16:23:33.1074|INFO|thread:24|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 40 at GitClient.cs:151 after waiting 0.0001666s
+2016-06-02 16:23:33.1074|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 39 at GitClient.cs:207 after blocking 0.0160284s
+2016-06-02 16:23:33.1800|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 40 at GitClient.cs:151 after blocking 0.065355s
+2016-06-02 16:23:33.1974|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 37 at GitClient.cs:638 after blocking 0.1055258s
+2016-06-02 16:23:47.8194|WARN|thread: 1|CoreUtility|Failed to delete directory C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc
+System.IO.IOException: Access to the path 'C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc' is denied.
+   at System.IO.DirectoryInfo.MoveTo(String destDirName)
+   at GitHub.CoreUtility.<>c__DisplayClass19.<FastDeleteDirectory>b__14()
+   at GitHub.Extensions.FuncExtensions.<>c__DisplayClass1.<Retry>b__0()
+   at GitHub.Extensions.FuncExtensions.Retry[T](Func`1 block, Int32 retries)
+   at GitHub.Extensions.FuncExtensions.Retry(Action block, Int32 retries)
+   at GitHub.CoreUtility.FastDeleteDirectory(String path)
+2016-06-02 16:23:48.0549|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\cmgas\AppData\Local\Apps\2.0\685ZKLJR.5X0\G27HAP8T.ARL\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4\7za.exe', Args: 'x -y "-oC:\Users\cmgas\AppData\Local\GitHub\4kvms5uf.zrs.deleteme" "C:\Users\cmgas\AppData\Local\Apps\2.0\685ZKLJR.5X0\G27HAP8T.ARL\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4\tutorial.7z"', Working Directory: 
+2016-06-02 16:23:48.9306|INFO|thread: 1|PortablePackageManager|Extracting tutorial.7z is (so far) successful
+2016-06-02 16:23:49.2507|WARN|thread: 9|CoreUtility|Failed to delete directory C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc
+System.IO.IOException: Access to the path 'C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc' is denied.
+   at System.IO.DirectoryInfo.MoveTo(String destDirName)
+   at GitHub.CoreUtility.<>c__DisplayClass19.<FastDeleteDirectory>b__14()
+   at GitHub.Extensions.FuncExtensions.<>c__DisplayClass1.<Retry>b__0()
+   at GitHub.Extensions.FuncExtensions.Retry[T](Func`1 block, Int32 retries)
+   at GitHub.Extensions.FuncExtensions.Retry(Action block, Int32 retries)
+   at GitHub.CoreUtility.FastDeleteDirectory(String path)
+2016-06-02 16:23:49.3393|INFO|thread: 9|DirectoryExtensions|Failed to move directory. Attempting a copy as a fallback
+System.IO.IOException: Cannot create a file when that file already exists.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.DirectoryInfo.MoveTo(String destDirName)
+   at GitHub.IO.GitHubDirectory.MoveTo(String destDirName)
+   at GitHub.IO.DirectoryExtensions.<>c__DisplayClass6.<MoveToWithRetryAndCopyFallback>b__0()
+   at GitHub.Extensions.FuncExtensions.<>c__DisplayClass1.<Retry>b__0()
+   at GitHub.Extensions.FuncExtensions.Retry[T](Func`1 block, Int32 retries)
+   at GitHub.Extensions.FuncExtensions.Retry(Action block, Int32 retries)
+   at GitHub.IO.DirectoryExtensions.MoveToWithRetryAndCopyFallback(IDirectory directory, IDirectory target)
+2016-06-02 16:23:49.5098|ERROR|thread: 9|PortablePackageManager|Couldn't rename temporary directory to C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc
+System.IO.IOException: The file 'C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\.git\hooks\README.sample' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at GitHub.IO.GitHubFile.CopyTo(String target, Boolean overwrite)
+   at GitHub.IO.DirectoryExtensions.<>c__DisplayClassa.<CopyTo>b__9(IFile f)
+   at System.Linq.EnumerableEx.ForEach[TSource](IEnumerable`1 source, Action`1 onNext)
+   at GitHub.IO.DirectoryExtensions.CopyTo(IDirectory directory, IDirectory target)
+   at GitHub.IO.DirectoryExtensions.<>c__DisplayClassa.<CopyTo>b__8(IDirectory d)
+   at System.Linq.EnumerableEx.ForEach[TSource](IEnumerable`1 source, Action`1 onNext)
+   at GitHub.IO.DirectoryExtensions.CopyTo(IDirectory directory, IDirectory target)
+   at GitHub.IO.DirectoryExtensions.<>c__DisplayClassa.<CopyTo>b__8(IDirectory d)
+   at System.Linq.EnumerableEx.ForEach[TSource](IEnumerable`1 source, Action`1 onNext)
+   at GitHub.IO.DirectoryExtensions.CopyTo(IDirectory directory, IDirectory target)
+   at GitHub.IO.DirectoryExtensions.<>c__DisplayClassa.<CopyTo>b__8(IDirectory d)
+   at System.Linq.EnumerableEx.ForEach[TSource](IEnumerable`1 source, Action`1 onNext)
+   at GitHub.IO.DirectoryExtensions.CopyTo(IDirectory directory, IDirectory target)
+   at GitHub.IO.DirectoryExtensions.<>c__DisplayClass6.<MoveToWithRetryAndCopyFallback>b__1()
+   at GitHub.Extensions.FuncExtensions.<>c__DisplayClass1.<Retry>b__0()
+   at GitHub.Extensions.FuncExtensions.Retry[T](Func`1 block, Int32 retries)
+   at GitHub.Extensions.FuncExtensions.Retry(Action block, Int32 retries)
+   at GitHub.IO.DirectoryExtensions.MoveToWithRetryAndCopyFallback(IDirectory directory, IDirectory target)
+   at GitHub.Helpers.PortablePackageManager.MoveTemporaryPackageToFinalDestination(IDirectory temporaryDirectory)
+2016-06-02 16:23:49.5338|WARN|thread: 4|AnonymousIdentifierProvider|No anonymous identifier in cache, inserting: 110a5d90ea2649f4b9fdf55ab2e8fff3
+2016-06-02 16:23:49.6073|WARN|thread: 9|PortablePackageManager|Failed to extract package successfully: tutorial.7z
+System.IO.IOException: The file 'C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\.git\hooks\README.sample' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at GitHub.IO.GitHubFile.CopyTo(String target, Boolean overwrite)
+   at GitHub.IO.DirectoryExtensions.<>c__DisplayClassa.<CopyTo>b__9(IFile f)
+   at System.Linq.EnumerableEx.ForEach[TSource](IEnumerable`1 source, Action`1 onNext)
+   at GitHub.IO.DirectoryExtensions.CopyTo(IDirectory directory, IDirectory target)
+   at GitHub.IO.DirectoryExtensions.<>c__DisplayClassa.<CopyTo>b__8(IDirectory d)
+   at System.Linq.EnumerableEx.ForEach[TSource](IEnumerable`1 source, Action`1 onNext)
+   at GitHub.IO.DirectoryExtensions.CopyTo(IDirectory directory, IDirectory target)
+   at GitHub.IO.DirectoryExtensions.<>c__DisplayClassa.<CopyTo>b__8(IDirectory d)
+   at System.Linq.EnumerableEx.ForEach[TSource](IEnumerable`1 source, Action`1 onNext)
+   at GitHub.IO.DirectoryExtensions.CopyTo(IDirectory directory, IDirectory target)
+   at GitHub.IO.DirectoryExtensions.<>c__DisplayClassa.<CopyTo>b__8(IDirectory d)
+   at System.Linq.EnumerableEx.ForEach[TSource](IEnumerable`1 source, Action`1 onNext)
+   at GitHub.IO.DirectoryExtensions.CopyTo(IDirectory directory, IDirectory target)
+   at GitHub.IO.DirectoryExtensions.<>c__DisplayClass6.<MoveToWithRetryAndCopyFallback>b__1()
+   at GitHub.Extensions.FuncExtensions.<>c__DisplayClass1.<Retry>b__0()
+   at GitHub.Extensions.FuncExtensions.Retry[T](Func`1 block, Int32 retries)
+   at GitHub.Extensions.FuncExtensions.Retry(Action block, Int32 retries)
+   at GitHub.IO.DirectoryExtensions.MoveToWithRetryAndCopyFallback(IDirectory directory, IDirectory target)
+   at GitHub.Helpers.PortablePackageManager.MoveTemporaryPackageToFinalDestination(IDirectory temporaryDirectory)
+2016-06-02 16:23:49.6073|WARN|thread: 9|TutorialRepositoryPackageManager|Failed to extract tutorial repository: C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+System.IO.IOException: The file 'C:\Users\cmgas\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\.git\hooks\README.sample' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at GitHub.IO.GitHubFile.CopyTo(String target, Boolean overwrite)
+   at GitHub.IO.DirectoryExtensions.<>c__DisplayClassa.<CopyTo>b__9(IFile f)
+   at System.Linq.EnumerableEx.ForEach[TSource](IEnumerable`1 source, Action`1 onNext)
+   at GitHub.IO.DirectoryExtensions.CopyTo(IDirectory directory, IDirectory target)
+   at GitHub.IO.DirectoryExtensions.<>c__DisplayClassa.<CopyTo>b__8(IDirectory d)
+   at System.Linq.EnumerableEx.ForEach[TSource](IEnumerable`1 source, Action`1 onNext)
+   at GitHub.IO.DirectoryExtensions.CopyTo(IDirectory directory, IDirectory target)
+   at GitHub.IO.DirectoryExtensions.<>c__DisplayClassa.<CopyTo>b__8(IDirectory d)
+   at System.Linq.EnumerableEx.ForEach[TSource](IEnumerable`1 source, Action`1 onNext)
+   at GitHub.IO.DirectoryExtensions.CopyTo(IDirectory directory, IDirectory target)
+   at GitHub.IO.DirectoryExtensions.<>c__DisplayClassa.<CopyTo>b__8(IDirectory d)
+   at System.Linq.EnumerableEx.ForEach[TSource](IEnumerable`1 source, Action`1 onNext)
+   at GitHub.IO.DirectoryExtensions.CopyTo(IDirectory directory, IDirectory target)
+   at GitHub.IO.DirectoryExtensions.<>c__DisplayClass6.<MoveToWithRetryAndCopyFallback>b__1()
+   at GitHub.Extensions.FuncExtensions.<>c__DisplayClass1.<Retry>b__0()
+   at GitHub.Extensions.FuncExtensions.Retry[T](Func`1 block, Int32 retries)
+   at GitHub.Extensions.FuncExtensions.Retry(Action block, Int32 retries)
+   at GitHub.IO.DirectoryExtensions.MoveToWithRetryAndCopyFallback(IDirectory directory, IDirectory target)
+   at GitHub.Helpers.PortablePackageManager.MoveTemporaryPackageToFinalDestination(IDirectory temporaryDirectory)
+2016-06-02 16:23:49.6073|INFO|thread: 9|ProcessWrapper|Starting: Process - FileName: 'C:\Users\cmgas\AppData\Local\Apps\2.0\685ZKLJR.5X0\G27HAP8T.ARL\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4\7za.exe', Args: 'x -y "-oC:\Users\cmgas\AppData\Local\GitHub\5fzssknm.zeu.deleteme" "C:\Users\cmgas\AppData\Local\Apps\2.0\685ZKLJR.5X0\G27HAP8T.ARL\gith..tion_317444273a93ac29_0003.0001_cbe40ecbe3e419d4\tutorial.7z"', Working Directory: 
+2016-06-02 16:23:50.5098|INFO|thread: 9|PortablePackageManager|Extracting tutorial.7z is (so far) successful
+2016-06-02 16:23:50.7588|INFO|thread:24|PortablePackageManager|Extracted package successfully: tutorial.7z
+2016-06-02 16:23:54.8455|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.AboutViewModel.
